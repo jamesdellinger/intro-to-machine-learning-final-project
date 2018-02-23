@@ -1,6 +1,6 @@
-# Intro to Machine Learning Course Final Project
+# Intro to Machine Learning Course: Final Project
 
-This repository contains my completed final project for Udacity's Intro to Machine Learning Course.
+This repository contains my completed final project for Udacity's Intro to Machine Learning Course (ud120).
 https://www.udacity.com/course/intro-to-machine-learning--ud120
 
 My project code is in poi_id.py, written in python using the scikit-learn package. A description and
